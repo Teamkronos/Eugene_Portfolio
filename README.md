@@ -1,7 +1,7 @@
 # Eugene_Portfolio
 Data science portfolio
 
-# [Project 1: Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks(CNN)] (FULL LINK)
+# [Project 1: Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks(CNN)] (https://github.com/Teamkronos/skin_cancer_classifier)
 * The dataset chosen for this comparative analysis is titled Human Against Machine with 10,000 training images (HAM10000)
 * It contains 10,015 (450 x 600 x 3) coloured high-resolution images of skin lesions labelled into three classes.
 * Trained five CNNs: ResNet, InceptionV3, Xception, VGG-16 and DenseNet with hyper-parameters via the HAM10000 dataset and detailed the performance of these models. 
