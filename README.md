@@ -8,3 +8,4 @@ Data science portfolio
 * Also tested the final model ResNet50 with custom weights on two external datasets being ISIC-2019 and PAD-UFES-20. 
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/data_analysis.PNG)
