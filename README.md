@@ -14,8 +14,9 @@ Data science portfolio
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softmapping.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_raw_preprocessed.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/5_YAML.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/6_parameters.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/6_parameter1.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter2.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/8_accuracy.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/9_recall.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter3.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/9_accuracy.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/10_recall.PNG)
 
