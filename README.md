@@ -9,7 +9,7 @@ Data science portfolio
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_data_analysis.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview of model training.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/2_resources.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softmapping.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_raw_preprocessed.PNG)
