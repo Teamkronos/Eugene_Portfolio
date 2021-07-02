@@ -2,8 +2,8 @@
 Data science portfolio
 
 # [Project 1: Deep Learning](https://github.com/Teamkronos/skin_cancer_classifier)
-Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks(CNN)
 
+### Topic: Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks(CNN)
 * The dataset chosen for this comparative analysis is titled Human Against Machine with 10,000 training images (HAM10000)
 * It contains 10,015 (450 x 600 x 3) coloured high-resolution images of skin lesions labelled into three classes.
 * Trained five CNNs: ResNet, InceptionV3, Xception, VGG-16 and DenseNet with hyper-parameters via the HAM10000 dataset and detailed the performance of these models. 
@@ -15,8 +15,8 @@ Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Ne
 
 
 # [Project 2: Interative Visualization & Self-organizing Map](https://github.com/Teamkronos/mobile_device_market_leader)
-Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)
 
+### Topic: Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)
 * The dataset contains 213 companies that produced different mobile devices from 1989 to 2012. 
 * There are 16 dimensions with 3162 rows
 * The goal of this project is to extract meaningful information from a dataset through a interactive visualization method and SOM. 
