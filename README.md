@@ -1,4 +1,4 @@
-# Data Science Project Portfolio
+# Data Science Projects Portfolio
 
 # [Project 1: Deep Learning](https://github.com/Teamkronos/skin_cancer_classifier)
 
