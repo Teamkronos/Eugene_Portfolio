@@ -19,7 +19,8 @@ Data science portfolio
 * Used Python libraries - Plotly and Dash to extract valuable information for this project. 
 * Used SOM and dashboard as tools in creating different visualisations to investigate which devices or companies are the most successful in leading the market.
 
-
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_mainview.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_diffusionperiod.PNG)
 
 
 
