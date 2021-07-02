@@ -25,6 +25,8 @@ Data science portfolio
 
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_mainview.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_diffusionperiod.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/SOM.PNG)
+
 
 
 
