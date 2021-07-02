@@ -10,8 +10,6 @@
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
-
 
 # [Project 2: Interative Visualization & Self Organizing Map](https://github.com/Teamkronos/mobile_device_market_leader)
 
