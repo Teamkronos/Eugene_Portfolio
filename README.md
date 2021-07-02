@@ -12,7 +12,7 @@ Data science portfolio
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
 
 
-# [Project 2: To find out which company is leading the mobile device market through an interactive visualization and self-organising mapping(SOM)](https://github.com/Teamkronos/mobile_device_market_leader)
+# [Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)](https://github.com/Teamkronos/mobile_device_market_leader)
 * The dataset contains 213 companies that produced different mobile devices from 1989 to 2012. 
 * There are 16 dimensions with 3162 rows
 * The goal of this project is to extract meaningful information from a dataset through a interactive visualization method and SOM. 
