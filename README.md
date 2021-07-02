@@ -1,4 +1,4 @@
-# Eugene_Portfolio
+# Eugene's Data Science Project Portfolio
 Data science portfolio
 
 # [Project 1: Deep Learning](https://github.com/Teamkronos/skin_cancer_classifier)
