@@ -13,7 +13,7 @@
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
 
 
-# [Project 2: Interative Visualization & Self-organizing Map](https://github.com/Teamkronos/mobile_device_market_leader)
+# [Project 2: Interative Visualization & Self Organizing Map](https://github.com/Teamkronos/mobile_device_market_leader)
 
 ### Topic: Finding mobile device market leaders through an interactive visualization and self-organizing mapping(SOM)
 * The dataset contains 213 companies that produced different mobile devices from 1989 to 2012. 
