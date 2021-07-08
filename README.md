@@ -34,8 +34,8 @@
 * This is relevant to the modelling of existing and future planned transport networks as well as other network related problems. 
 * We suggest that our model may be applied to archeological research or biomedicine and offer extensions for future development of our model in a 3D environment.
 
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_mainview.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/SOM.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/realmap.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/mix.PNG)
 
 
 
