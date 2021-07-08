@@ -24,7 +24,7 @@
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/SOM.PNG)
 
 
-# [Project 3: Agent Based Model - Slime Mold Inspired ](???)
+# [Project 3: Agent Based Model - Slime Mold Inspired ](https://github.com/Teamkronos/agent_based_model_slime_mold)
 
 ### Topic: Optimising transport networks under consideration of population density and topography using a slime mold inspired agent based model
 * This paper will introduce an agent-based model to mimic the foraging behaviour of the slime mold species Physarum Polycephalum to optimise road networks in O’ahu (Hawaii, USA) and Hokkaido (Japan) under the influence of elevation and population. 
